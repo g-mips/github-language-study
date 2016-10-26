@@ -13,9 +13,23 @@ Different Variables:
 	- Web Based
 		- JavaScript (TypeScript, ActionScript, Handlebars)/PHP/HTML/CSS
 	- Scripting
+	  
 		- Python
 		- BASH/Shell Scripting
 		- Lua
+
+- Python
+- BASH/BATCH/SHELL
+- Java
+- C#
+- C/C++
+- Go
+- Lua
+- Haskell
+- Elixer
+- Groovy
+- Assembly
+
 - Number of people
 - Enterprise vs Personal
 - Newness of project
