@@ -1,0 +1,22 @@
+Different Variables:
+- The different languages
+	- OO Languages
+		- Java
+		- C#
+	- Procedural
+		- C/C++
+	- Functional
+		- Haskell
+	- Lisp (eLisp and Common Lisp)
+	- Go
+	- D
+	- Web Based
+		- JavaScript (TypeScript, ActionScript, Handlebars)/PHP/HTML/CSS
+	- Scripting
+		- Python
+		- BASH/Shell Scripting
+		- Lua
+- Number of people
+- Enterprise vs Personal
+- Newness of project
+- 
