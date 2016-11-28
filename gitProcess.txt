@@ -1,0 +1,10 @@
+git config --global user.name "<name>"
+git config --global user.email "<email address>"
+
+git clone https://github.com/gshawm/github-language-study.git // This will create a directory called github-language-study
+
+git add . // Tracks all files for committing
+git commit -m "This is my commit message" // Commit your most recent changes to local repository
+git push // Push your most recent commits to the github (server) repository
+
+git pull // Gets the most recent changes in the github (server) repository
